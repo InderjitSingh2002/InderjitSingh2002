@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**InderjitSingh2002/InderjitSingh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hello, I'm Inder</h1>
+<h3 align="center">🚀 Computer Programming Student 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inderjitsingh2002" alt="inderjitsingh2002" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Looking forward to connect with fellow students and professionals to collaborate on exciting projects.
+- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/inderjit-singh-1ba826204/)
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inderjit.singh2@mygeorgian.ca)](mailto:dubey.abhinav76@gmail.com)
+
+- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+## Some Statistics About Me
+![Inder's's github stats](https://github-readme-stats.vercel.app/api?username=inderjitsingh2002&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
+
+----
+Credits: [Inderjit Singh](https://github.com/InderjitSingh2002)
+
+Last Edited on: 11/02/2022
